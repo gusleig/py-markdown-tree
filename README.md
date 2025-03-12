@@ -2,6 +2,12 @@
 
 A simple Python utility to generate Markdown-formatted directory trees for documentation purposes.
 
+This is very usefull to add the project files and folder structure in a way that Artificial Ingelligence can read.
+
+Whe using cursor or windsurf, add the generated file to your project readme.md and see the results for yourself.
+
+ps: I found out that the tree command in macos works the same way, but this was fun to create.
+
 ## Features
 
 - Creates well-formatted directory trees in Markdown syntax
