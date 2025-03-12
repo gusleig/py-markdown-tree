@@ -8,6 +8,15 @@ Whe using cursor or windsurf, add the generated file to your project readme.md a
 
 ps: I found out that the tree command in macos (installed with `brew install tree`) works the same way, but this was fun to create.
 
+```
+(.venv) ➜  py-markdown-tree git:(main) tree
+.
+├── README.md
+├── markdown_tree.py
+└── project_structure.md
+```
+
+
 ## Features
 
 - Creates well-formatted directory trees in Markdown syntax
