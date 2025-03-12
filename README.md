@@ -6,7 +6,7 @@ This is very usefull to add the project files and folder structure in a way that
 
 Whe using cursor or windsurf, add the generated file to your project readme.md and see the results for yourself.
 
-ps: I found out that the tree command in macos works the same way, but this was fun to create.
+ps: I found out that the tree command in macos (installed with `brew install tree`) works the same way, but this was fun to create.
 
 ## Features
 
